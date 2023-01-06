@@ -4,7 +4,7 @@
       "id": 1,
       "description": "Desenvolvimento de Site",
       "type": "income",
-      "category":  "Venda",
+      "category": "Venda",
       "price": 4000,
       "createdAt": "2023-01-05T14:06:37.526Z"
     },
@@ -12,7 +12,7 @@
       "id": 2,
       "description": "Hamburger",
       "type": "outcome",
-      "category":  "Alimentação",
+      "category": "Alimentação",
       "price": 35,
       "createdAt": "2023-01-05T14:06:42.526Z"
     },
@@ -20,9 +20,25 @@
       "id": 3,
       "description": "Placa de vídeo Geforce RTX 3060",
       "type": "outcome",
-      "category":  "Hardware",
+      "category": "Hardware",
       "price": 3500,
       "createdAt": "2023-01-05T14:06:42.526Z"
+    },
+    {
+      "description": "XJ6",
+      "price": 45000,
+      "category": "Moto",
+      "type": "income",
+      "createdAt": "2023-01-06T11:01:46.401Z",
+      "id": 4
+    },
+    {
+      "description": "Monster",
+      "price": 8,
+      "category": "Bebidas",
+      "type": "outcome",
+      "createdAt": "2023-01-06T11:06:35.211Z",
+      "id": 5
     }
   ]
 }
