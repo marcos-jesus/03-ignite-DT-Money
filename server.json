@@ -39,6 +39,30 @@
       "type": "outcome",
       "createdAt": "2023-01-06T11:06:35.211Z",
       "id": 5
+    },
+    {
+      "description": "Pão",
+      "price": 4,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-07T10:43:05.459Z",
+      "id": 6
+    },
+    {
+      "description": "Fézinha Mega sena ",
+      "price": 4,
+      "category": "Outros",
+      "type": "outcome",
+      "createdAt": "2023-01-07T10:58:30.848Z",
+      "id": 7
+    },
+    {
+      "description": "Margarina Delícia",
+      "price": 8,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-01-07T10:59:18.320Z",
+      "id": 8
     }
   ]
 }
